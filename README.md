@@ -56,33 +56,23 @@ The long-term goal is to provide a structured environment where Android applicat
 
 ## `03` — Screenshots
 
-> Screenshots will be added as the interface reaches stable milestones.
-
 <div align="center">
 
 <table>
 <tr>
+
 <td align="center">
-
-### Dashboard
-
-<img src="https://placehold.co/420x840/080808/7C3AED?text=K7%7E+Analyses%0ADashboard" width="250"/>
-
+<img src="https://i.hizliresim.com/fln9zxno.jpg" width="280"/>
 </td>
+
 <td align="center">
-
-### Analysis
-
-<img src="https://placehold.co/420x840/080808/7C3AED?text=Analysis%0AInterface" width="250"/>
-
+<img src="https://i.hizliresim.com/p9h0rhzk.jpg" width="280"/>
 </td>
+
 <td align="center">
-
-### Results
-
-<img src="https://placehold.co/420x840/080808/7C3AED?text=Analysis%0AResults" width="250"/>
-
+<img src="https://i.hizliresim.com/qh3yc56i.jpg" width="280"/>
 </td>
+
 </tr>
 </table>
 
