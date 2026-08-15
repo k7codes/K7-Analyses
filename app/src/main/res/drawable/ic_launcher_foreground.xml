@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Contour -->
+    <path
+        android:fillColor="#152238"
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,22 L78,32 C78,60 54,82 54,86 C54,82 30,60 30,32 Z" />
+
+    <!-- Inner Shield Accent -->
+    <path
+        android:fillColor="#0D1B2A"
+        android:strokeColor="#7000FF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,30 L70,38 C70,58 54,73 54,76 C54,73 38,58 38,38 Z" />
+
+    <!-- Cyber Crosshair Lines -->
+    <path
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,36 L54,68 M40,52 L68,52" />
+
+    <!-- Center Core Glow -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,49 A3,3 0 1,0 54,55 A3,3 0 1,0 54,49 Z" />
+
+    <!-- Corner Radar Ticks -->
+    <path
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="2"
+        android:pathData="M48,45 L45,45 L45,48 M60,45 L63,45 L63,48 M45,56 L45,59 L48,59 M63,56 L63,59 L60,59" />
+</vector>

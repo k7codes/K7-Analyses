@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">k7~ Analyses</string>
+    <string name="app_subtitle">Android APK Güvenlik Analiz Laboratuvarı</string>
+    <string name="signature_author">k7~</string>
+</resources>
